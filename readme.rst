@@ -16,15 +16,12 @@ TODO
 ----
 
 * Game mode state-machine:
-
-    * Warm-up (Aim maps, maybe casual gameplay mode until you have 10.)
-    * Match setup (pick map, captains, teams)
-    * Match-play
-
+    - Warm-up (Aim maps, maybe casual gameplay mode until you have 10.)
+    - Match setup (pick map, captains, teams)
+    - Match-play
 * Voting:
-
-    * Map
-    * Captains
+    - Map
+    - Captains
 
 * Ready-up system.
 
