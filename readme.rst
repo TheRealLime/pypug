@@ -8,9 +8,7 @@ Requirements
 ------------
 
 * A CS:GO dedicated server.
-
 * `Source.Python`_ installed to the CS:GO server.
-
 
 TODO
 ----
@@ -22,15 +20,10 @@ TODO
 * Voting:
     - Map
     - Captains
-
 * Ready-up system.
-
 * Match play (15 rounds, switch sides, 15 rounds)
-
 * Overtime support.
-
 * Unit-tests for everything.
-
 * Subbing system.
 
 DONE
